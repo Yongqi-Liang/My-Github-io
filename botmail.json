@@ -1,0 +1,7 @@
+{
+    "mail.send.protocol": "smtp",
+    "mail.send.host": "smtp.qiye.aliyun.com",
+    "mail.send.username": "no-reply@liangyongqi.top",
+    "mail.send.password": "BOTbot...",
+    "mail.target.host": "my@liangyongqi.top"
+}
